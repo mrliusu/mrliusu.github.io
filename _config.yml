@@ -29,7 +29,7 @@ search: true
 nightMode: true
 
 # Comments
-disqus: false
+disqus: true
 disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
 livere: true
@@ -39,8 +39,8 @@ livere_uid: MTAyMC8yODEwMC80Njcz
 reward:
   enable: true
   reward_comment: '真诚赞赏 手有余香'
-  wechatpay: '/assets/img/alipay.jpg'
-  alipay: '/assets/img/wechatpay.jpg'
+  wechatpay: '/assets/img/wechatpay.jpg'
+  alipay: '/assets/img/alipay.jpg'
 
 # b2t 回到顶部 by Ray-Eldath
 b2t: true
