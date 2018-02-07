@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: '廖柯宇的独立博客'
-description: '昵称悟空，千禧一代，前端开发者/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '廖柯宇, 廖柯宇的独立博客, 廖柯宇的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
-url: 'http://liaokeyu.com' # your host
+title: '刘苏博客'
+description: '程序员'
+keyword: '刘苏, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs'
+url: 'http://mrliusu.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -14,12 +14,12 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2018
 
 # Author 配置博主信息
-author: '廖柯宇'
-nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
+author: '刘苏'
+nickname: '刘苏'
+bio: '程序员'
 avatar: '/assets/img/profile.png'
 
 # Search
@@ -39,8 +39,8 @@ livere_uid: MTAyMC8yODEwMC80Njcz
 reward:
   enable: true
   reward_comment: '真诚赞赏 手有余香'
-  wechatpay: 'http://ray-eldath.image.alimmdn.com/basic/wechatpay.jpg'
-  alipay: 'http://ray-eldath.image.alimmdn.com/basic/alipay.jpg'
+  wechatpay: '/assets/img/alipay.jpg'
+  alipay: '/assets/img/wechat.'
 
 # b2t 回到顶部 by Ray-Eldath
 b2t: true
@@ -57,10 +57,9 @@ postPatterns: 'circuitBoard'
 
 # SNS settings 配置社交网站url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  email: 'mailto:ray.eldath@aol.com'
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
+  email: 'mailto:www.mrliusu@foxmail.com'
+  weibo: '//weibo.com/mrliusu'
+  jianshu: '//www.jianshu.com/u/b1b161c9eb21'
   github: '//github.com/kaeyleo'
 
 # Tags 设置标签
