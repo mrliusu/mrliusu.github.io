@@ -29,7 +29,7 @@ search: true
 nightMode: true
 
 # Comments
-disqus: true
+disqus: false
 disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
 livere: true
