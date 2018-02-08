@@ -54,7 +54,8 @@ gulp.task('useref', function () {
 
 ### 基本参数
 uglyfi与minifycss自动的去掉注释压缩代码，但是htmlmin需要做参数配置。
-- **html的参数配置**
+
+**html的参数配置**
 
 ```js
 gulp.task('htmlmin', function () {
