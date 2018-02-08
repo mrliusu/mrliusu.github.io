@@ -1,10 +1,9 @@
 ---
 layout: post
-title: 'gulp学习笔记'
-date: 2018-02-08
-author: mrliusu
-cover: ''
-tags: gulp 学习笔记
+title:  "gulp学习笔记"
+date:   2018-02-08
+categories: gulp 学习笔记
+permalink: /archivers/gulp-study-notes
 ---
 
 ### 需要用到的基本插件有
