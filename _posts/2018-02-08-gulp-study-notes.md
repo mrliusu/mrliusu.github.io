@@ -18,6 +18,7 @@ tags: gulp 学习笔记
 - gulp-htmlmin （html压缩）
 - gulp-imagemin （图片压缩）
 - gulp-cache （缓存，无修改的不压缩，节约时间）
+
 1. 先安装
 >  npm install gulp-sass --save-dev
 2. 再引用
