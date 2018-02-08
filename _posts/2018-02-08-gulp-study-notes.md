@@ -46,6 +46,7 @@ gulp.task('useref', function () {
 - src （读取资源）
 - pipe （管道即要执行的操作）
 - dest （输出）
+
 最后在cmd执行
 > gulp useref
 ### 基本参数
