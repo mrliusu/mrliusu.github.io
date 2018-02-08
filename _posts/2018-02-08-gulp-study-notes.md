@@ -23,6 +23,7 @@ permalink: /archivers/gulp-study-notes
 2. 再引用
 ```js
 var sass = require('gulp-sass')
+```
 
 3. 然后调用
 > sass()
@@ -51,10 +52,9 @@ gulp.task('useref', function () {
 最后在cmd执行
 > gulp useref
 
-### 基本参数
+**基本参数***
 uglyfi与minifycss自动的去掉注释压缩代码，但是htmlmin需要做参数配置。
-
-**html的参数配置**
+html的参数配置
 
 ```js
 gulp.task('htmlmin', function () {
