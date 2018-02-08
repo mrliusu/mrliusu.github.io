@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ios日期"
-date:   2018-02-08
+date:   2018-02-08 18:00:00
 categories: ios bug
 permalink: /archivers/bug-ios-date
 ---

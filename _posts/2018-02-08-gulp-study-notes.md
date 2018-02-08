@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "gulp学习笔记"
-date:   2018-02-08
+date:   2018-02-08 16:00:00
 categories: gulp 学习笔记
 permalink: /archivers/gulp-study-notes
 ---
