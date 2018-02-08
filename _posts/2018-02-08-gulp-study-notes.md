@@ -20,12 +20,16 @@ tags: gulp 学习笔记
 - gulp-cache （缓存，无修改的不压缩，节约时间）
 1. 先安装
 >  npm install gulp-sass --save-dev
+
 2. 再引用
+
 ```js
 var sass = require('gulp-sass')
 ```
+
 3. 然后调用
 > sass()
+
 ### 基本语法如下
 ```js
 gulp.task('useref', function () {
@@ -49,6 +53,7 @@ gulp.task('useref', function () {
 
 最后在cmd执行
 > gulp useref
+
 ### 基本参数
 uglyfi与minifycss自动的去掉注释压缩代码，但是htmlmin需要做参数配置。
 - **html的参数配置**
