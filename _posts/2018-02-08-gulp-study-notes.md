@@ -25,9 +25,7 @@ tags: gulp 学习笔记
 var sass = require('gulp-sass')
 ```
 3. 然后调用
-```js
-sass()
-```
+> sass()
 ### 基本语法如下
 ```js
 gulp.task('useref', function () {
@@ -49,9 +47,7 @@ gulp.task('useref', function () {
 - pipe （管道即要执行的操作）
 - dest （输出）
 最后在cmd执行
-```
- gulp useref
-```
+> gulp useref
 ### 基本参数
 uglyfi与minifycss自动的去掉注释压缩代码，但是htmlmin需要做参数配置。
 - **html的参数配置**
