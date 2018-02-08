@@ -9,7 +9,7 @@ description: >
 # Your information
 email: mrliusu@foxmail.com
 author: Mr.LiuSu
-avatar: "/img/avatar.jpg"
+avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: I am a coder.
 #twitter_username: twitter_username
 #github_username:  github_username
