@@ -21,7 +21,7 @@ tags: gulp 学习笔记
 1. 先安装
 ``` 
  npm install gulp-sass --save-dev
- ```
+```
 2. 再引用
 ```
 var sass = require('gulp-sass')
@@ -31,7 +31,7 @@ var sass = require('gulp-sass')
  sass()
 ```
 ### 基本语法如下
-```
+```js
 gulp.task('useref', function () {
     var htmlOption = {
         collapseWhitespace: true,
