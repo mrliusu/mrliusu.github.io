@@ -24,7 +24,7 @@ tags: gulp 学习笔记
 2. 再引用
 ```js
 var sass = require('gulp-sass')
-```
+
 3. 然后调用
 > sass()
 
@@ -73,7 +73,7 @@ gulp.task('htmlmin', function () {
         .pipe(htmlmin(options))
         .pipe(gulp.dest('dist/html'));
 });
-
+```
 ### 踩过的坑
 1. **安装gulp之后，执行`gulp -v`显示gulp不是内部或外部命令，有时候安装其他的插件也会遇到这个问题**
 是缺少环境变量或者环境变量错误的原因.
