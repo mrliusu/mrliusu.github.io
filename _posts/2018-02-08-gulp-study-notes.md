@@ -78,3 +78,4 @@ gulp.task('htmlmin', function () {
 是缺少环境变量或者环境变量错误的原因.
 cmd执行`npm config get prefix`拿到环境变量，然后 `计算机>属性>高级系统设置>高级>环境变量>编辑`，把拿到的环境变量添加或者修改进去，重启cmd再执行
 2. **pipe方法有先后执行顺序**
+3. **gulp-uglify对es6不支持，直接压缩会报错，可先用babel转换后压缩**
