@@ -35,17 +35,17 @@ npm install run-sequence --save-dev
 
 ```
 ### 步骤
-1. 先安装
+- 先安装
 
 ``` 
  npm install gulp-sass --save-dev
- ```
-2. 再引用
+```
+- 再引用
 
 ```
 var sass = require('gulp-sass')
 ```
-3. 然后调用
+- 然后调用
 
 ```
  sass()
