@@ -7,11 +7,13 @@ permalink: /archivers/gulp_browserify
 ---
 
 ### 安装gulp
+
 ```
 npm install -g gulp
 npm install --save-dev gulp
 ```
-> 题外话：
+
+题外话：
 --save-dev安装到开发环境，对应package.json里面的devDependencies；比如gulp或者browserify等打包及转化插件
 --save安装到生产环境，对应package.json里面的，比如vue等包
 
@@ -20,7 +22,9 @@ npm install --save-dev gulp
 ```
 npm install --save-dev gulp-connect
 ```
+
 然后新建gulpfile.js
+
 ```
 var gulp = require('gulp'),
     connect = require('gulp-connect');
@@ -33,8 +37,10 @@ gulp.task('connect', function () {
 
 gulp.task('default', ['connect'])
 ```
+
 在命令行执行gulp会执行default任务开启服务器 
 ### 监听代码修改
+
 ```
 var gulp = require('gulp'),
     connect = require('gulp-connect');
