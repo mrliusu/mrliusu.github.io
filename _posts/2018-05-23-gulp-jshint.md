@@ -83,4 +83,4 @@ PS C:\wamp64\www\gulpbabel>
 }
 ```
 jshint只检测代码不检测逻辑
-具体参数参考http://jshint.com/docs/options/
+具体参数参考[http://jshint.com/docs/options/](http://jshint.com/docs/options/)
