@@ -112,7 +112,7 @@ console.log(new Array(3).fill('su'));
 ```
 发现并没有转换，然后引入了babel-polyfill,发现把import 转换成了require然后浏览器报错require未定义
 
-###使用Browserify解决模块化
+### 使用Browserify解决模块化
 ```
 npm install  browserify --save-dev
 npm install vinyl-source-stream --save-dev
