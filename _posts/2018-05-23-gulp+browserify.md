@@ -14,7 +14,9 @@ npm install --save-dev gulp
 > 题外话：
 --save-dev安装到开发环境，对应package.json里面的devDependencies；比如gulp或者browserify等打包及转化插件
 --save安装到生产环境，对应package.json里面的，比如vue等包
+
 ### 安装gulp-connect（搭建本地服务器）
+
 ```
 npm install --save-dev gulp-connect
 ```
