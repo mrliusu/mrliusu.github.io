@@ -148,7 +148,7 @@ gulp.task('browserify', function () {
 ```
 browserify只做模块化处理，不能直接转es6的代码，会报错
 或者可以做以下处理
-安装babelify配合browserify使用
+安装babelify配合browserify使用;babelify依赖babel-cli与babel-preset-es2015
 ```
 npm install babelify --save-dev
 ```
