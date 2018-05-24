@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "sublime Text 3 + jslint"
+title:  "sublime text 3 + jshint检查代码"
 date:   2018-05-23 15:30:00
 categories: sublimetext jslint 学习笔记
 permalink: /archivers/sublimetext3_jshint
