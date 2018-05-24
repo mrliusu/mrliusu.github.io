@@ -27,15 +27,18 @@ sublime Text安装sublimelinter跟sublimelinter-jshint插件。具体步骤
 npm i jshint -g
 ```
 然后重启sublime text可以看到会有错误提示
+
 ![image.png](https://upload-images.jianshu.io/upload_images/2406529-7e4898ca0b419ef7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 黄色是警告，红色是错误
 鼠标放到错误位置，会有错误提示
+
 ![image.png](https://upload-images.jianshu.io/upload_images/2406529-3f146ca7f6a43d75.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 自定义jshint配置
 可以根据需要进行自定义的配置
 ``` preferences => package Setting => sublimeLinter => setting ``` 会打开两个页面，左边的是默认的不可修改，右边是用户自定义的可修改；如下图
+
 ![image.png](https://upload-images.jianshu.io/upload_images/2406529-b420aaf8bc5b39a8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 设置user setting代码
 
